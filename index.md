@@ -7,6 +7,6 @@ RAM         |CPU  |Type                             |Slots
 ------------|-----|---------------------------------|---------|
 1536M (1.5G)|ARM64|Minecraft Server on Pufferpanel  |0/8
 512M  (0.5G)|ARM64|General Purpose Docker container |0/12
-64M         |AMD64|General Purpose Docker container |0/4
+64M         |AMD64|General Purpose Docker container |1/4
 
 * Free as slots last
