@@ -1,4 +1,4 @@
-# Knijn hosting
+# Knijn Hosting
 Knijn hosting is free hosting* for you, all you need to do is join [the server](https://discord.gg/3Cgdtxkchh) and apply for a server.
 
 Hosts available
@@ -9,4 +9,4 @@ RAM         |CPU  |Type                             |Slots
 512M  (0.5G)|ARM64|General Purpose Docker container |1/12
 64M         |AMD64|General Purpose Docker container |2/4
 
-* Free as slots last
+* Free as long as lots last
