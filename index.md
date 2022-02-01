@@ -1,7 +1,8 @@
 # Knijn hosting
-Knijn hosting is free hosting for you, all you need to do is join the server and apply for a server
+Knijn hosting is free hosting for you, all you need to do is join the server and apply for a server.
+https://discord.gg/3Cgdtxkchh - Discord link
 
-Server specs
+Hosts available
 
 RAM         |CPU  |Type                             |Slots
 ------------|-----|---------------------------------|---------|
