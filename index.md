@@ -11,5 +11,5 @@ RAM         |CPU  |Type                             |OS                         
 512M  (0.5G)|ARM64|General Purpose Docker container | Ubuntu Linux 20.04.3 LTS                |0/6
 512M  (0.5G)|ARM64|General Purpose Docker container | Alpine Linux                            |3/6
 64M         |AMD64|General Purpose Docker container | Alpine Linux                            |2/4
-
+256M  (0.25G)|ARM64|NodeJS application Hosting       | Ubuntu Linux 20.04.2 LTS                |0/8
 * Free as long as lots last
