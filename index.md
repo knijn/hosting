@@ -8,7 +8,8 @@ Hosts available
 RAM         |CPU  |Type                             |OS                                       | Slots
 ------------|-----|---------------------------------|-----------------------------------------|---------|
 1536M (1.5G)|ARM64|Minecraft Server on Pufferpanel  | Ubuntu Linux 20.04.2 LTS                |1/8
-512M  (0.5G)|ARM64|General Purpose Docker container | Ubuntu Linux 20.04.3 LTS or Alpine Linux|3/12
+512M  (0.5G)|ARM64|General Purpose Docker container | Ubuntu Linux 20.04.3 LTS                |1/6
+512M  (0.5G)|ARM64|General Purpose Docker container | Alpine Linux                            |3/6
 64M         |AMD64|General Purpose Docker container | Alpine Linux                            |2/4
 
 * Free as long as lots last
