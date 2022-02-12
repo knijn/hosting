@@ -22,7 +22,7 @@ C3   |ARM_64| 512 Mb (0.5Gb) | Ubuntu Linux 20.04.3 LTS | 0/6   |
 
 Name | CPU  | RAM Allocation | OS                       | What you can host here             | Slots |
 -----|------|----------------|--------------------------|------------------------------------|-------|
-P1   |ARM_64| 1536Mb (1.5Gb) | Ubuntu Linux 20.04.2 LTS | A Java or Bedrock Minecraft Server | 1/8   |
+P1   |ARM_64| 1536Mb (1.5Gb) | Ubuntu Linux 20.04.2 LTS | A Java or Bedrock Minecraft Server | 2/8   |
 P2   |ARM_64| 256Mb  (0.25Gb)| Ubuntu Linux 20.04.2 LTS | A NodeJS Application or Discord Bot| 0/8   |
 
 * Free as long as lots last
