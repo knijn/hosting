@@ -7,16 +7,7 @@ If you need help with logging into your docker container go to [this link](https
 
 Name (Starts with) | What it is             | Why would I use it?
 -------------------|------------------------|---------------------|
-C                  | Dockerized Container   | You can run anything in a Dockerized Container as long as your service supports ARM
 P                  | A service on the panel | It is easy to set up
-
-## Container Hosting
-
-Name | CPU  | RAM Allocation | OS                       
------|------|----------------|--------------------------
-C1   |x86_64| 64 Mb          | Alpine Linux             
-C2   |ARM_64| 512 Mb (0.5Gb) | Alpine Linux             
-C3   |ARM_64| 512 Mb (0.5Gb) | Ubuntu Linux 20.04.3 LTS 
 
 ## Panel Hosting
 
