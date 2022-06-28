@@ -1,21 +1,14 @@
 # Knijn Hosting
-Knijn hosting is free hosting for you, all you need to do is join [the server](https://discord.gg/3Cgdtxkchh) and apply for a server.
-
-If you need help with logging into your docker container go to [this link](https://hosting.knijn.ga/tutorial)
-
-## What is what?
-
-Name (Starts with) | What it is             | Why would I use it?
--------------------|------------------------|---------------------|
-P                  | A service on the panel | It is easy to set up
+Knijn hosting is free hosting for you, all you need to do is join [the server](https://discord.gg/FYXbHcBbrN) and apply for a server.
 
 ## Panel Hosting
 
-Name | CPU  | RAM Allocation | OS                       | What you can host here             
------|------|----------------|--------------------------|------------------------------------|
-P1   |ARM_64| 1536Mb (1.5Gb) | Ubuntu Linux 20.04.2 LTS | A Java Minecraft Server*1          |
+Name | CPU  | RAM Allocation | What you can host here             
+-----|------|----------------|------------------------------------|
+P1   |ARM_64| 2048Mb (2Gb)   | A Java Minecraft Server            |
+P2   |x86_64| 2048Mb (2Gb)   | A Java Minecraft Server		  |
+P2   |x86_64| 512Mb  (0.5Gb) | A NodeJS Server			  |
 
 
 
-
-*1 - Spigot is not supported
+*Spigot is not supported*
