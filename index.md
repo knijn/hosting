@@ -6,9 +6,7 @@ Knijn hosting is free hosting for you, all you need to do is join [the server](h
 Name | Location       | RAM Allocation | What you can host here             
 -----|----------------|----------------|---------------------------------|
 P1   | London, UK     | 2048Mb (2Gb)   | A Java Minecraft Server         |
-P2   | Miami, Florida | 2048Mb (2Gb)   | A Java Minecraft Server         |
-P3   | Miami, Florida | 512Mb  (0.5Gb) | A NodeJS Server	         |
-
-We also offer a Knijn Drive solution
+P2   | New York City  | 2048Mb (2Gb)   | A Java Minecraft Server         |
+P3   | New York City  | 512Mb  (0.5Gb) | A NodeJS Server	               |
 
 *Spigot is not supported on ARM Hosts*
